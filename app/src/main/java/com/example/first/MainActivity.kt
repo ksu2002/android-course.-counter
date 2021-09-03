@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
 
     private var counter: TextView? = null
     private var i: Int = 0
+    private var i: Int = 123
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
