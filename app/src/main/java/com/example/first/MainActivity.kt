@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
 
     private var counter: TextView? = null
     private var i: Int = 0
-
+    private var test: Boolean = true
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
